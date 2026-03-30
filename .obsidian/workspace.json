@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personnages/Figérard.md",
+                "file": "Événements/La représentation de théâtre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Figérard"
+              "title": "La représentation de théâtre"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,7 +87,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -217,29 +217,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false
     }
   },
-  "active": "2e2abbf6a536db8d",
+  "active": "ace5a4e3051c770a",
   "lastOpenFiles": [
-    "Personnages/Colombelle.md",
-    "Personnages/Kalawina Neri.md",
-    "La grande mission.md",
-    "Personnages/Ména.md",
-    "Le conciliabule.md",
+    "Personnages/Famille Kranoul.md",
+    "Événements/La représentation de théâtre.md",
     "villes/Tourneporc.md",
-    "Personnages/fabrice, le marchand.md",
-    "Personnages/Figérard.md",
+    "Noms de scène.md",
+    "Personnages/Colombelle.md",
     "create a link.md",
+    "Événements",
+    "La grande mission.md",
+    "Personnages/fabrice, le marchand.md",
+    "Le conciliabule.md",
+    "Personnages/Kalawina Neri.md",
+    "Personnages/Figérard.md",
+    "Personnages/Ména.md",
+    "Personnages/Saroumel.md",
+    "Sans titre.base",
     "villes/Chnafon.md",
     "villes/Glarg.md",
-    "Personnages/Saroumel.md",
     "Welcome.md",
     "Personnages",
     "villes"
