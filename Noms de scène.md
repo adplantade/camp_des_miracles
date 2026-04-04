@@ -7,3 +7,8 @@ pièces brillantes
 Callie Kranoul
 
 
+Garde du corps
+Frénia
+
+
+Gertrand Goudille
