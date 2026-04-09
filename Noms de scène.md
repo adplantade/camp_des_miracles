@@ -11,4 +11,4 @@ Garde du corps
 Frénia
 
 
-Gertrand Goudille
+Gertrand Goudille (noble qui a amené des gnomes asasssins)
