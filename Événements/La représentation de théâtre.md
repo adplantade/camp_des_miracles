@@ -39,3 +39,32 @@ Marie : 16
 Banjoman : 7
 
 Total : 89
+
+Marie : 0
+Orkk : 7
+Banjoman : -0
+Orkk : 0
+Marie : 11
+Marie 2 : 10
+Banjoman : 11
+ENTRACTE
+Orkk : 2
+Marie : 9 (+5) (+10)
+Banjoman : 8
+
+Total : 73
+
+commerce textiles (goupil bleu nuit)
+compagnies transport (goupile bleu nuit)
+
+chef de garde (goupil roux)
+"gère des commerces" (goupile rousse)
+
+gourdepelle
+
+======
+9
+9
+10
+
+28

@@ -1,0 +1,1 @@
+[[Colombelle]] a payé des mages pour qu'ils fassent des parchemins spéciaux. Ils téléportent des elfes noirs vers des "endroits pas ouf" afin de les capturer et les tuer (pour ensuite les mettre dans les caisses)
